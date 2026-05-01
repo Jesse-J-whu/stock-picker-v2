@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-04-30 10:52:12",
+  "update_time": "2026-05-01 10:31:34",
   "strategy": "周线量变爆发 V2",
   "conditions": {
     "boll": "BOLL上轨升 & 中轨升 & 下轨降",
